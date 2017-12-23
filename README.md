@@ -1,1 +1,3 @@
 # PartyQ
+
+Spotify Party Application
